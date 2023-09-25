@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanuja Thishakya Samaranayake</h1>
 <h3 align="center">An ambitious undergraduate software engineer, NFT developer, and digital creator with a passion for building cutting-edge solutions, pushing boundaries, and crafting immersive digital experiences.</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/54446092?v=4" alt="sam-thisha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-thisha&label=Profile%20views&color=0e75b6&style=flat" alt="sam-thisha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-thisha" alt="sam-thisha" /></a> </p>
 
