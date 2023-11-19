@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-thisha&label=Profile%20views&color=0e75b6&style=flat" alt="sam-thisha" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-thisha&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=3" alt="sam-thisha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-thisha&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=3&column=3" alt="sam-thisha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sam_thisha" target="blank"><img src="https://img.shields.io/twitter/follow/sam_thisha?logo=twitter&style=for-the-badge" alt="sam_thisha" /></a> </p>
 
