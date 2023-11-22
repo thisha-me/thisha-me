@@ -11,8 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=sam-thisha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sam-thisha&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-thisha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<br/>
-![]([https://github-readme-stats.vercel.app](https://github-readme-stats-dhanuja-thishakya-samaranayakes-projects.vercel.app/)/api/top-langs/?username=sam-thisha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats-dhanuja-thishakya-samaranayakes-projects.vercel.app/api/top-langs/?username=sam-thisha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 https://github-readme-stats-dhanuja-thishakya-samaranayakes-projects.vercel.app/
 
 ## 🏆 GitHub Trophies
