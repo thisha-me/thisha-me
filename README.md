@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://thisha.me<br>💬 Ask me about NFT, Web Development<br>📫 How to reach me d.thishakya@gmail.com<br>⚡ Fun fact he first computer bug was literally a bug!
+👨‍💻 All of my projects are available at https://thisha.me<br>💬 Ask me about NFT, Web Development<br>📫 How to reach me d.thishakya@gmail.com<br>⚡ Fun fact he first computer bug was literally a bug
 
 
 ## 🌐 Socials:
