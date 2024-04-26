@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://thisha.me<br>💬 Ask me about, Blockchain NFT, Web Development<br>📫 How to reach me d.thishakya@gmail.com<br>⚡ Fun fact he first computer bug was literally a bug
-
+👨‍💻 All of my projects are available at https://thisha.me<br>💬 Ask me about, Blockchain NFT, Web Development<br>📫 How to reach me d.thishakya@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam_thisha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-thisha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sam_thisha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sam_thisha) 
