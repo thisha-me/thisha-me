@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/thisha-me/count.svg?"  />
-
-###
-
 <p align="left">👨‍💻 All of my projects are available at https://thisha.me<br>💬 Ask me about, Blockchain NFT, Web Development<br>📫 How to reach me d.thishakya@gmail.com</p>
 
 ###
@@ -83,6 +79,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thisha-me&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisha-me&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/thisha-me/count.svg?"  />
 </div>
 
 ###
