@@ -8,6 +8,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Multi-Tenant Architecture with NestJS and MongoDB](https://medium.com/@thisha.me/implementing-multi-tenant-architecture-with-nestjs-and-mongodb-d488c8760143?source=rss-ecbb5d45e615------2)
 <!-- BLOG-POST-LIST:END -->
 
 ###
