@@ -1,7 +1,7 @@
 name: Blog Post Workflow
 on: 
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 * * *' # Runs every hour
   workflow_dispatch: # Allows you to manually trigger the workflow
 jobs: 
   update-readme-with-blog: 
