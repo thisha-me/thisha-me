@@ -8,6 +8,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [pERC-20: Can Ethereum Finally Have Private Tokens Without Breaking DeFi?](https://medium.com/@thisha.me/perc-20-can-ethereum-finally-have-private-tokens-without-breaking-defi-6c5b7c4acaa4?source=rss-ecbb5d45e615------2)
 - [NestJS Request Lifecycle Explained: Guards, Pipes, Interceptors &amp; More](https://medium.com/@thisha.me/nestjs-request-lifecycle-explained-guards-pipes-interceptors-more-9fb6792ddcea?source=rss-ecbb5d45e615------2)
 - [Implementing Multi-Tenant Architecture with NestJS and MongoDB](https://medium.com/@thisha.me/implementing-multi-tenant-architecture-with-nestjs-and-mongodb-d488c8760143?source=rss-ecbb5d45e615------2)
 <!-- BLOG-POST-LIST:END -->
